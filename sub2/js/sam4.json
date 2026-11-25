@@ -1,0 +1,29 @@
+{
+    "sam": [
+        {"name":"[건강기능식품] 아이레즈 프리미엄","descript":"현대인의 지친 눈 건강과 영양 공급을 동시에 케어하는 프리미엄 눈 건강 영양제입니다.","image":"./images/sub4/img1.png","pop_img":"./images/sub4/big1.png"},
+        {"name":"[건강기능식품] 락토골드 프리미엄","descript":"장내 유익균 증식과 유해균 억제를 도와 원활한 배변 활동 및 장 건강을 지켜주는 고품질 유산균 제품입니다.","image":"./images/sub4/img2.png","pop_img":"./images/sub4/big2.png"},
+        {"name":"[건강기능식품] 모발솔루션 프리미엄","descript":"모발 건강과 두피 영양 공급에 필요한 핵심 영양성분을 균형 있게 배합한 탈모·모발 관리 보조 식품입니다.","image":"./images/sub4/img3.png","pop_img":"./images/sub4/big3.png"},
+        {"name":"[건강기능식품] 리얼콜라겐 프리미엄","descript":"저분자 콜라겐 펩타이드와 비타민 C·비오틴을 함유하여 피부 보습 및 탄력 유지에 도움을 주는 제품입니다.","image":"./images/sub4/img4.png","pop_img":"./images/sub4/big4.png"},
+        {"name":"[건강기능식품] 키드큐 쾌변젤리","descript":"배변 활동이 불편한 아이들이 거부감 없이 맛있게 섭취하며 장 건강을 챙길 수 있는 어린이용 젤리입니다.","image":"./images/sub4/img5.png","pop_img":"./images/sub4/big5.png"},
+        {"name":"[건강기능식품] 파워덴트 프리미엄","descript":"잇몸과 치아 건강 유지에 필요한 영양 성분을 집중 공급하여 구강 건강을 지켜주는 전문 건강기능식품입니다.","image":"./images/sub4/img6.png","pop_img":"./images/sub4/big6.png"},
+        {"name":"[건강기능식품] 하이락토 트리플 케어","descript":"프로바이오틱스, 아연, 비타민D를 주원료로 하여 장 건강과 정상적인 면역기능, 뼈 건강을 동시에 케어하는 3중 복합 기능성 유산균 제품입니다.","image":"./images/sub4/img7.png","pop_img":"./images/sub4/big7.png"},
+        {"name":"[건강기능식품] 콘드로이친 1500k","descript":"소연골 유래 뮤코다당·단백 1,500mg과 비타민K, 비타민D, 셀렌, 아연, 망간을 담아 관절 및 뼈 건강과 항산화를 케어하는 복합 영양제입니다.","image":"./images/sub4/img8.png","pop_img":"./images/sub4/big8.png"},
+        {"name":"[건강기능식품] 혈당케어엔 바나바","descript":"바나바잎추출물과 크롬, 아연, 셀렌 등을 함유하여 식후 혈당상승 억제 및 체내 탄수화물·지방·단백질 대사에 도움을 주는 혈당 케어 제품입니다.","image":"./images/sub4/img9.png","pop_img":"./images/sub4/big9.png"},
+        {"name":"[건강기능식품] 키드큐 홍삼젤리","descript":"면역력 쑥쑥! 우리 아이가 잘 먹는 맛있는 홍삼, 아연, 나이아신이 함유되어 성장기 아이의 건강을 챙겨주는 오렌지맛 젤리입니다.","image":"./images/sub4/img10.png","pop_img":"./images/sub4/big10.png"},
+        {"name":"[건강기능식품] 브레인 피에스 징코","descript":"포스파티딜세린(PS), 비타민E, 은행잎추출물을 담아 두뇌 건강, 기억력, 인지력, 항산화를 한 번에 케어할 수 있는 프리미엄 브레인 영양제입니다.","image":"./images/sub4/img11.png","pop_img":"./images/sub4/big11.png"},
+        {"name":"[건강기능식품] 스노우 쿨멜팅 마그네슘","descript":"마그네슘 5종과 비타민C, 비타민D를 함유하여 근육 기능 유지, 신경 기능 유지, 에너지 이용을 돕는 쿨멜팅 제형의 마그네슘 제품입니다.","image":"./images/sub4/img12.png","pop_img":"./images/sub4/big12.png"},
+        {"name":"[건강기능식품] 키드큐 키즈플러스젤리","descript":"칼슘, 비타민D, 아연을 주원료로 하여 우리 아이 성장을 위한 맞춤 과학을 담은 복숭아맛 젤리 영양제입니다.","image":"./images/sub4/img13.png","pop_img":"./images/sub4/big13.png"},
+        {"name":"[건강기능식품] 키드큐 면역젤리","descript":"아연, 비타민D가 함유되어 우리 아이 성장을 위한 면역력을 쑥쑥 키워주는 엘더베리 & 스트로베리맛 젤리입니다.","image":"./images/sub4/img14.png","pop_img":"./images/sub4/big14.png"},
+        {"name":"[건강기능식품] 코큐텐 100mg 맥스","descript":"코엔자임 Q10, 비타민B6, 비타민E를 함유하여 활력 에너지, 항산화 기능, 혈압 건강을 동시에 케어하는 약국 전용 제품입니다.","image":"./images/sub4/img15.png","pop_img":"./images/sub4/big15.png"},
+        {"name":"[건강기능식품] 하이락토 더블 액션","descript":"프로바이오틱스, 락추로스 파우더, 아연을 담아 장 건강과 원활한 배변 활동, 정상적인 면역기능을 돕는 복합 기능성 유산균 제품입니다.","image":"./images/sub4/img16.png","pop_img":"./images/sub4/big16.png"}
+      
+    ]
+}
+
+
+
+
+
+
+
+

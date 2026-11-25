@@ -1,0 +1,28 @@
+{
+    "sam": [
+        {"name":"[전문의약품] 테라팜정","descript":"나프로닐옥살산염 성분을 함유하여 뇌 및 말초 혈액순환 장애를 개선하는 전문의약품입니다.","image":"./images/sub3/img1.png","pop_img":"./images/sub3/big1.png"},
+        {"name":"[전문의약품] 세파클러캡슐","descript":"인슐린 분비를 촉진하여 제2형 당뇨병 환자의 혈당 조절을 돕는 경구용 혈당강하제입니다.","image":"./images/sub3/img2.png","pop_img":"./images/sub3/big2.png"},
+        {"name":"[전문의약품] 나푸롤정","descript":"세팔로스포린계 항생제로, 호흡기계, 요로계 및 피부 등 다양한 세균 감염증을 치료합니다.","image":"./images/sub3/img3.png","pop_img":"./images/sub3/big3.png"},
+        {"name":"[전문의약품] 글리팜정","descript":"테라조신 성분을 통해 전립선비대증으로 인한 배뇨장애와 고혈압을 동시에 조절해 주는 치료제입니다.","image":"./images/sub3/img4.png","pop_img":"./images/sub3/big4.png"},
+        {"name":"[전문의약품] 클리데이","descript":"올로파타딘 성분을 함유하여 알레르기로 인해 발생하는 눈의 가려움증과 충혈 등 안구 알레르기 증상을 완화해 주는 전문의약품 안약입니다.","image":"./images/sub3/img5.png","pop_img":"./images/sub3/big5.png"},        
+        {"name":"[전문의약품] 타조락탐주","descript":"피페라실린나트륨과 타조박탐나트륨 복합 성분의 주사제로, 감수성이 있는 세균에 의한 각종 감염증(폐렴, 복강내감염, 요로감염 등) 치료에 사용되는 광범위 항생제입니다.","image":"./images/sub3/img6.png","pop_img":"./images/sub3/big6.png"},
+        {"name":"[전문의약품] 탁소젠주사","descript":"도세탁셀삼수화물을 주성분으로 하는 항암제로, 유방암, 비소세포폐암, 난소암 등 고형암 치료에 사용되는 전문 의약품입니다.","image":"./images/sub3/img7.png","pop_img":"./images/sub3/big7.png"},
+        {"name":"[전문의약품] 아데팜정","descript":"아데포비어디피복실을 주성분으로 하는 만성 B형 간염 치료제로, 바이러스의 증식을 억제하여 간 손상을 막는 데 도움을 줍니다.","image":"./images/sub3/img8.png","pop_img":"./images/sub3/big8.png"},
+        {"name":"[전문의약품] 씨라클정","descript":"클래리트로마이신을 주성분으로 하는 마크로라이드계 항생제로, 호흡기 감염증 및 헬리코박터파일로리 박멸요법 등에 필수적으로 사용됩니다.","image":"./images/sub3/img9.png","pop_img":"./images/sub3/big9.png"},
+        {"name":"[전문의약품] 토파메드정","descript":"토피라메이트를 주성분으로 하는 항간질약(뇌전증 치료제)으로, 간질 발작의 조절 및 편두통 예방 목적으로 처방됩니다.","image":"./images/sub3/img10.png","pop_img":"./images/sub3/big10.png"},
+        {"name":"[전문의약품] 알지크주사","descript":"페메트렉시드이나트륨염 2.5수화물을 주성분으로 하는 항암제로, 악성 흉막 중피종 및 비소세포폐암 치료에 사용됩니다.","image":"./images/sub3/img11.png","pop_img":"./images/sub3/big11.png"},
+        {"name":"[전문의약품] 아드리아마이신피에프에스주사액 10mg","descript":"독소루비신염산염을 주성분으로 하는 안트라사이클린계 항암제로, 다양한 백혈병, 림프종 및 고형암 치료에 사용됩니다.","image":"./images/sub3/img12.png","pop_img":"./images/sub3/big12.png"},
+        {"name":"[전문의약품] 플루코팜캡슐","descript":"플루코나졸을 주성분으로 하는 광범위 항진균제로, 칸디다증 및 크립토코쿠스증 등 진균(곰팡이) 감염 질환의 치료와 예방에 쓰입니다.","image":"./images/sub3/img13.png","pop_img":"./images/sub3/big13.png"},
+        {"name":"[전문의약품] 히알큐점안액 0.1%","descript":"히알루론산나트륨을 주성분으로 하는 점안액으로, 각결막 상피 장애 보호 및 건조한 눈의 불쾌감을 완화하는 데 사용됩니다.","image":"./images/sub3/img14.png","pop_img":"./images/sub3/big14.png"},
+        {"name":"[전문의약품] 후루마린주사 0.5g","descript":"플로목세프나트륨을 주성분으로 하는 옥사세펨계 항생제 주사제로, 각종 세균 감염증 치료에 효과적인 전문의약품입니다.","image":"./images/sub3/img15.png","pop_img":"./images/sub3/big15.png"}
+      
+    ]
+}
+
+
+
+
+
+
+
+

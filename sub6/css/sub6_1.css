@@ -1,0 +1,28 @@
+/* *{margin: 0; padding: 0;}
+a{color: #333; text-decoration: none; display: block;}
+ul{list-style: none;}  */
+
+#content_area .faq{text-align: center;} 
+
+#content .content_area .faq .hgroup {position: relative; margin-bottom: 20px; padding: 50px; border-bottom: 2px solid #ccc;width: 1200px; margin-left: 280px; text-align: center; } 
+#content .content_area .faq .hgroup h2{font-size: 2.5rem;}
+#content .content_area .faq .hgroup .all {position: absolute; top: 0; right: 0; color: #333; font-size: 13px; padding: 50px; font-size: 1rem;} 
+
+ #content_area .faq ul{width: 1000px;}
+#content .content_area .faq ul li{width: 1000px; margin: 0 auto; margin-bottom: 20px; padding: 20px; }
+#content .content_area .faq .q{position: relative; background: var(--color-sub1); border-radius: 20px; overflow: hidden;}
+#content .content_area .faq .a{background: var(--color-sub1); padding: 30px; border-radius: 20px;}
+#content .content_area .faq .q .trigger{padding: 30px; color: #333; font-weight: 500; display: block;}
+#content .content_area .faq  ul li .trigger:hover {background: var(--color-main); color: #fff;} 
+#content .content_area .faq .q span {display: block; position: absolute; right: 20px; top: 50%; transform: translateY(-50%);} 
+
+/* #content .content_area .faq li.article.show .q span {transform: translateY(-30%) rotate(-135deg);}
+#content .content_area .faq li.article.hide .q span {transform: translateY(-70%) rotate(45deg);} */
+
+
+
+
+
+
+
+

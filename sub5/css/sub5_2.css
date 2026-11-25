@@ -1,0 +1,33 @@
+#content .content_area{margin: 0 auto; margin-bottom: 200px;}
+#content .content_area ul{display: flex; justify-content: center; flex-wrap: wrap; list-style: none;}
+#content .content_area ul>li{background: #fff; border-top: 2px solid var(--color-main); width: 380px; padding: 20px; margin: 30px; position: relative;}
+
+#content .content_area li dt span{font-size: 1rem; font-weight: 400; color: var(--color-main); display: block; margin-bottom: 20px;}
+#content .content_area ul li i, #content .content_area ul li .svg-inline--fa{background: #FFEFEF; font-size: 1.2rem; font-weight: 400; color: #e60122;  top: 50; left: 350px; padding: 10px; position: absolute; }
+#content .content_area li dt{font-size: 1.2rem; font-weight: 600; color: #333; margin-bottom: 20px; text-align: justify;}
+#content .content_area li dd{font-size: 18px; font-weight: 400; margin-bottom: 20px; color: #666666;}
+
+
+
+#content .content_area .intro_txt_box{width: 1400px; height: 250px; margin: 100px auto; position: relative; display: flex; align-items: center;
+                                      justify-content: space-between; padding: 0 50px; box-sizing: border-box; border-radius: 5px; background: url(../img/sub1/img1.jpg) no-repeat center;}
+#content .content_area .intro_txt_box .txt_group{display: flex; flex-direction: column; gap: 10px;}
+
+#content .intro_txt_box .sub_title{font-size: 14px; color: #e60122; font-weight: 400; display: flex; align-items: center; gap: 10px;}
+#content .intro_txt_box .sub_title i, #content .intro_txt_box .sub_title .svg-inline--fa{color: #e60122; font-size: 18px;}
+#content .intro_txt_box h3{font-size: 2rem; font-weight: 600; color: #fff; margin: 0; text-align: left;}
+#content .content_area .intro_txt_box p{font-size: 18px; text-align: left; margin:0;  color: #fff; width: auto; height: auto; }
+#content .content_area .intro_txt_box .btn_link {background: #fff; color: #e60122; font-size: 18px; font-weight: 400; padding: 20px 26px; border-radius: 5px; 
+                                                   text-decoration: none; display: flex; align-items: center; gap: 10px; transition: all .2s ease-out;  border: 1px solid #e60122; }
+#content .content_area .intro_txt_box .btn_link i, #content .content_area .intro_txt_box .btn_link .svg-inline--fa{font-size: 1.5rem;}
+#content .content_area .intro_txt_box .btn_link:hover{background: #e60122; transform: translateY(-2px); color: #fff;} 
+#content .content_area .intro_txt_box .btn_link i, #content .content_area .intro_txt_box .btn_link:hover .svg-inline--fa{color: #fff;}
+
+
+
+
+
+
+
+
+

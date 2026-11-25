@@ -1,0 +1,50 @@
+/* *{margin: 0; padding: 0;} */
+#content .content_area{width: 100%; padding: 30px; margin-bottom: 200px; margin-top: 50px;}
+#content .content_area h3{font-size: 2.3rem; text-align: left; position: relative; left:50%; margin-left: -670px;}
+#content .content_area .part1{display: flex; justify-content: center;}
+#content .content_area .part1 li{width: 290px; height: 250px; margin: 30px; background:#F9F9F9; box-shadow: var(--box-shadow1); transition: all .2s ease-out;}
+#content .content_area .part1 li:hover{transform: scale(1.1);}
+#content .content_area .part1 dl{text-align: center; align-items: center;}
+#content .content_area .part1 .svg-inline--fa{font-size: 2.3rem; margin-top: 40px;}
+#content .content_area .part1 dt{font-size: 1.3rem; margin-top: 30px; font-weight: 500;}
+#content .content_area .part1 dd{font-size: 16px; margin-top: 20px;}
+
+#content .content_area .part2{display: flex; background: #F9F9F9; width: 1350px; margin: 0 auto; margin-top: 50px;  border-radius: 10px; margin-bottom: 50px;}
+#content .content_area .part2 li{padding: 30px 70px;box-sizing: border-box; flex: 1;}
+#content .content_area .part2 li+li dl{border-left: 1px solid #ddd; padding-left: 70px; }
+#content .content_area .part2 dt{display: flex; flex-direction: column; margin-bottom:30px;}
+#content .content_area .part2 dt .svg-inline--fa{color: #e60122; font-size: 1rem; background: #F9E6E1; border-radius: 50%; padding: 10px;}
+#content .content_area .part2 span{font-size: 13px; color: #999; margin-top: 7px;}
+#content .content_area .part2 strong{font-size: 1.2rem; font-weight: 500; height: 5px;}
+#content .content_area .part2 dd{font-size: 16px; text-align: left;}
+
+#content .content_area ol{border: 2px solid #ddd; width: 1350px; display: flex; padding: 30px;  box-sizing: border-box; 
+                          border-radius: 2px; margin: 0 auto; margin-top: 20px;}
+#content .content_area ol li{padding: 20px; display: flex; flex-direction: column; align-items: center; flex: 1; position: relative;}
+#content .content_area ol li .svg-inline--fa{font-size: 2rem; color: #e60122;}
+#content .content_area ol li span{margin-top: 10px; font-size: 18px; font-weight: 500;}
+#content .content_area ol li .fa-chevron-right{position: absolute; right: 0; top:40px; color: #666; font-weight: 400;}
+
+
+
+
+/* faq */
+#content .content_area .question{background: #FEF5F5; display: flex; justify-content: center; width: 1350px; margin: 0 auto; height: 100%; margin-top: 80px;}
+#content .content_area .question_info{flex-direction: column; display: flex; margin-top: 180px;}
+#content .content_area  .question_info h3{font-size: 2.3rem; margin: 0 90px; position: static;}
+#content .content_area  .question_info p{align-items: left; margin-left: 85px; margin-top: 20px;}
+#content .content_area  .question_info span{font-size: 1.2rem; font-weight: 400; color: #666;}
+#content .content_area  .question_info .svg-inline--fa{font-size: 3.5rem; margin-left: 120px; margin-bottom: 20px;}
+
+
+#content .content_area #contact-form{background: #FEFBFB; margin-top: 70px; margin-right: 70px; margin-bottom: 100px; padding: 10px; border-radius: 10px;}
+#content .content_area div{padding: 20px; width: 700px; margin:0 auto; display: flex;}
+#content .content_area label{font-size: 1.2rem; font-weight: bold; width: 100px; margin-top: 18px;}
+#content .content_area input, textarea{padding: 20px 15px; width: 90%; font-size: 1.5rem; border: 0; background: #fff; color: #333;  outline: none; box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.1); transition: all .5s;  border: 1px solid rgb(203, 203, 203); border-radius: 15px;}
+#content .content_area input:focus, textarea:focus{box-shadow: 1px 1px 10px 1px rgba(0,0,0,.4); transform: scale(1); background:#fff; border: 1px solid red;}     
+#content .content_area textarea{height: 200px;}
+#content .content_area button{padding: 10px 30px; background:#fff; border: 1px solid red; color: #333; font-size: 1.3rem;  margin: 0 0 20px 115px; display: block; cursor: pointer; font-weight: 500; width: 600px; }
+#content .content_area button:hover{background: red; color: #fff; font-weight: 500;}
+
+
+

@@ -1,0 +1,14 @@
+#content .content_area{margin-top: 100px;}
+#content .content_area h3{font-size: 2.8rem; font-weight: 600; text-align: center; margin: 50px;}
+#content .content_area span{font-size: 16px; font-weight: 500; color: var(--color-main); display: block; text-align: center; }
+#content .content_area ul{display: flex; flex-wrap:wrap; justify-content: center; margin-bottom: 100px;}
+#content .content_area ul img{width: 100%; height: 300px;}
+#content .content_area>ul>li {margin: 80px; width: 590px; margin-top: 50px; background: #ffffff; box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .1);padding: 20px;border-radius: 15px; transition: all .5s;}
+#content .content_area>ul>li:hover{transform: scale(1.02); box-shadow: 1px 1px 15px 1px rgba(0, 0, 0, .3);}    
+#content .content_area strong{color:var(--color-main); margin-bottom: 3px; display: block; }
+#content .content_area dl{ line-height: 2; font-size: 18px; font-weight: 600;  width: 100%; padding: 20px; box-sizing: border-box;}
+#content .content_area dt{height: 0 auto;}
+#content .content_area dd{margin-top: 20px; font-weight: 400; margin: 0; line-height: 1.6; text-align: justify;}
+#content .content_area .icon{display: flex; gap: 10px; justify-content: flex-start; margin-left: 20px;margin-bottom: 40px;}
+#content .content_area .icon li{background: #e60122;; border-radius: 30px; margin: 0; margin-top: 20px; font-size: 1rem; color: #fff; width: 95px; padding: 5px; text-align: center;}
+

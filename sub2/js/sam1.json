@@ -1,0 +1,29 @@
+{
+    "sam": [
+        {"name":"[일반의약품] 케노펜 플라스타","descript":"케토프로펜 성분을 함유하여 관절염, 근육통, 타박상 등의 통증 부위에 붙여 12시간 동안 효과를 지속시키는 소염진통제입니다.","image":"./images/sub1/img1.png","pop_img":"./images/sub1/big1.png"},
+        {"name":"[일반의약품] 펠비낙 플라스타","descript":"펠비낙 성분이 피부를 통해 빠르게 침투해 환부의 염증을 가라앉히고 관절통 및 어깨 결림을 완화해 줍니다.","image":"./images/sub1/img2.png","pop_img":"./images/sub1/big2.png"},
+        {"name":"[일반의약품] 에폴민 카타플라스마","descript":"수분 함유량이 높은 첩부제로, 환부에 시원한 냉감과 함께 소염진통 성분을 전달해 급성 통증과 부기를 줄여줍니다.","image":"./images/sub1/img3.png","pop_img":"./images/sub1/big3.png"},
+        {"name":"[일반의약품] 캐롤쿨링 더블파워","descript":"이부프로펜 피콜레트 성분을 주성분으로 하여 냉찜질 효과와 소염진통 작용을 동시에 제공하는 관절·근육통 치료제입니다.","image":"./images/sub1/img4.png","pop_img":"./images/sub1/big4.png"},
+        {"name":"[전문의약품] 테라팜정","descript":"나프로닐옥살산염 성분을 함유하여 뇌 및 말초 혈액순환 장애를 개선하는 전문의약품입니다.","image":"./images/sub1/img5.png","pop_img":"./images/sub1/big5.png"},
+        {"name":"[전문의약품] 세파클러캡슐","descript":"인슐린 분비를 촉진하여 제2형 당뇨병 환자의 혈당 조절을 돕는 경구용 혈당강하제입니다.","image":"./images/sub1/img6.png","pop_img":"./images/sub1/big6.png"},
+        {"name":"[전문의약품] 나푸롤정","descript":"세팔로스포린계 항생제로, 호흡기계, 요로계 및 피부 등 다양한 세균 감염증을 치료합니다.","image":"./images/sub1/img7.png","pop_img":"./images/sub1/big7.png"},
+        {"name":"[전문의약품] 글리팜정","descript":"테라조신 성분을 통해 전립선비대증으로 인한 배뇨장애와 고혈압을 동시에 조절해 주는 치료제입니다.","image":"./images/sub1/img8.png","pop_img":"./images/sub1/big8.png"},
+        {"name":"[건강기능식품] 아이레즈 프리미엄","descript":"현대인의 지친 눈 건강과 영양 공급을 동시에 케어하는 프리미엄 눈 건강 영양제입니다.","image":"./images/sub1/img9.png","pop_img":"./images/sub1/big9.png"},
+        {"name":"[건강기능식품] 락토골드 프리미엄","descript":"장내 유익균 증식과 유해균 억제를 도와 원활한 배변 활동 및 장 건강을 지켜주는 고품질 유산균 제품입니다.","image":"./images/sub1/img10.png","pop_img":"./images/sub1/big10.png"},
+        {"name":"[건강기능식품] 모발솔루션 프리미엄","descript":"모발 건강과 두피 영양 공급에 필요한 핵심 영양성분을 균형 있게 배합한 탈모·모발 관리 보조 식품입니다.","image":"./images/sub1/img11.png","pop_img":"./images/sub1/big11.png"},
+        {"name":"[건강기능식품] 리얼콜라겐 프리미엄","descript":"저분자 콜라겐 펩타이드와 비타민 C·비오틴을 함유하여 피부 보습 및 탄력 유지에 도움을 주는 제품입니다.","image":"./images/sub1/img12.png","pop_img":"./images/sub1/big12.png"},
+        {"name":"[일반의약품] 엑스라민엔정","descript":"일상 속 비타민 결핍을 해소하고 활력 증진을 돕는 맞춤형 비타민 B군 영양제입니다.","image":"./images/sub1/img13.png","pop_img":"./images/sub1/big13.png"},
+        {"name":"[일반의약품] 엑세라민 비정","descript":"비타민 B군부터 E, 미네랄까지 총 16종을 함유하여 육체피로, 체력저하, 근육통, 관절통, 신경통, 구내염 완화를 돕는 종합영양제입니다.","image":"./images/sub1/img14.png","pop_img":"./images/sub1/big14.png"},
+        {"name":"[건강기능식품] 키드큐 쾌변젤리","descript":"배변 활동이 불편한 아이들이 거부감 없이 맛있게 섭취하며 장 건강을 챙길 수 있는 어린이용 젤리입니다.","image":"./images/sub1/img15.png","pop_img":"./images/sub1/big15.png"},
+        {"name":"[건강기능식품] 혈당케어엔 바나바","descript":"잇몸과 치아 건강 유지에 필요한 영양 성분을 집중 공급하여 구강 건강을 지켜주는 전문 건강기능식품입니다.","image":"./images/sub1/img16.png","pop_img":"./images/sub1/big16.png"}
+      
+    ]
+}
+
+
+
+
+
+
+
+

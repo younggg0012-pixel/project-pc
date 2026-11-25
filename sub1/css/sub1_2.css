@@ -1,0 +1,29 @@
+#content .content_area{width: 100%; margin: 0 auto;}
+#content .vision1{margin: 0 100px;}
+#content .vision1 h3{color: var(--color-font1); font-weight: 600; font-size: 40px; margin-top: 80px; margin-bottom: 50px; text-align: center;}
+#content .vision1 ul{text-align: center; display: flex; gap: 60px; justify-content: center;}
+#content .vision1 ul li{ display: flex; flex-direction: column; align-items: center; gap: 20px; background:var(--color-sub1); border-radius: 30px 30px 0 0; padding: 60px 10px; margin-top: 30px;}
+#content .vision1 li strong{font-size: 25px; font-weight: 600; display: block; margin-top: 30px;}
+#content .vision1 li p{font-size: 16px; text-align: center; line-height: 2.2; font-weight: 400; margin-top: 20px;}
+#content .vision1 li .span1{color: var(--color-main); font-weight: 500;}
+#content .vision1 li .span2{color: var(--color-point3); font-weight: 500;}
+#content .vision1 li .span3{color: var(--color-point2); font-weight: 500;}
+#content .vision1 .icon_area1 li .svg-inline--fa{font-size: 4.5rem; display: block; margin-top: 30px;}
+#content .vision1 .icon_area1 li .icon_red{color: var(--color-main);}
+#content .vision1 .icon_area1 li .icon_green{color: #059669;}
+#content .vision1 .icon_area1 li .icon_yellow{color: #f88808;}
+
+
+#content .vision2{margin: 200px; text-align: center;}
+#content .vision2 h3{color: var(--color-font1); font-weight: 600; font-size: 40px; margin-bottom: 50px; text-align: center;}
+#content .vision2 p{width: 500px; margin: 0 auto; font-size: var(--font-18-size); border-top: 2px solid var(--color-main); border-bottom: 2px solid var(--color-main); justify-content: center; padding: 20px; font-weight: 500; line-height: 1.6rem;}
+#content .vision2 p span{color: var(--color-main); font-weight: 500; font-size: 1.3rem;}
+#content .vision2 .icon_area2{margin-top: 100px; display: flex; justify-content: center; gap: 100px;}
+#content .vision2 li{margin-top: 30px; font-weight: 500; font-size: var(--font-18-size);}
+#content .vision2 li div{width: 170px; height: 170px; margin: 0 auto 20px auto; font-size: 65px; display: flex; align-items: center; justify-content: center;}
+#content .vision2 li .icon01{background: var(--color-main); border-radius:50%;}
+#content .vision2 li .icon02{background: var(--color-point1); border-radius:50%;}
+#content .vision2 li .icon03{background: var(--color-point2); border-radius:50%;}
+#content .vision2 li .icon04{background: var(--color-point3); border-radius:50%;}
+
+

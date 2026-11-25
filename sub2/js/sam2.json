@@ -1,0 +1,28 @@
+{
+    "sam": [
+        {"name":"[일반의약품] 케노펜 플라스타","descript":"케토프로펜 성분을 함유하여 관절염, 근육통, 타박상 등의 통증 부위에 붙여 12시간 동안 효과를 지속시키는 소염진통제입니다.","image":"./images/sub2/img1.png","pop_img":"./images/sub2/big1.png"},
+        {"name":"[일반의약품] 펠비낙 플라스타","descript":"펠비낙 성분이 피부를 통해 빠르게 침투해 환부의 염증을 가라앉히고 관절통 및 어깨 결림을 완화해 줍니다.","image":"./images/sub2/img2.png","pop_img":"./images/sub2/big2.png"},
+        {"name":"[일반의약품] 에폴민 카타플라스마","descript":"수분 함유량이 높은 첩부제로, 환부에 시원한 냉감과 함께 소염진통 성분을 전달해 급성 통증과 부기를 줄여줍니다.","image":"./images/sub2/img3.png","pop_img":"./images/sub2/big3.png"},
+        {"name":"[일반의약품] 캐롤쿨링 더블파워","descript":"이부프로펜 피콜레트 성분을 주성분으로 하여 냉찜질 효과와 소염진통 작용을 동시에 제공하는 관절·근육통 치료제입니다.","image":"./images/sub2/img4.png","pop_img":"./images/sub2/big4.png"},
+        {"name":"[일반의약품] 엑스라민엔정","descript":"일상 속 비타민 결핍을 해소하고 활력 증진을 돕는 맞춤형 비타민 B군 영양제입니다.","image":"./images/sub2/img5.png","pop_img":"./images/sub2/big5.png"}, 
+        {"name":"[일반의약품] 아로나민 이맥스 플러스정","descript":"육체피로, 신경통, 근육통, 어깨·목걸림 완화 및 혈액순환장애 완화, 항산화 비타민을 보급해 주는 고함량 활성비타민 B군 영양제입니다.","image":"./images/sub2/img6.png","pop_img":"./images/sub2/big6.png"},
+        {"name":"[일반의약품] 엑세라민 비정","descript":"비타민 B군부터 E, 미네랄까지 총 16종을 함유하여 육체피로, 체력저하, 근육통, 관절통, 신경통, 구내염 완화를 돕는 종합영양제입니다.","image":"./images/sub2/img7.png","pop_img":"./images/sub2/big7.png"},
+        {"name":"[일반의약품] 일동 경옥고","descript":"꿀, 숙지황, 생지황즙, 인삼을 함유하여 자양강장, 병중병후, 육체피로, 허약체질, 권태, 갱년기 장애 개선에 도움을 주는 전통 보약입니다.","image":"./images/sub2/img8.png","pop_img":"./images/sub2/big8.png"},
+        {"name":"[일반의약품] 슈퍼라민 우르스정","descript":"UDCA, 타우린, 베타인 등 6종 성분과 활성비타민B 5종, 로열젤리 및 아연을 함유하여 육체피로, 체력저하, 구내염, 설염을 케어하는 복합제입니다.","image":"./images/sub2/img9.png","pop_img":"./images/sub2/big9.png"},
+        {"name":"[일반의약품] 아로나민 골드 액티브정","descript":"육체피로, 근육통, 피부염, 체력저하, 눈의피로, 어깨결림, 허리통증 완화에 도움을 주는 활성비타민 B군 보급제입니다.","image":"./images/sub2/img10.png","pop_img":"./images/sub2/big10.png"},
+        {"name":"[일반의약품] 엑세라민 에이정","descript":"활성비타민 B군 4종(B1, B2, B6, B12)을 함유하여 생체이용률을 높인 항산화 종합영양제로, 육체피로와 통증 완화를 간편하게 돕습니다.","image":"./images/sub2/img11.png","pop_img":"./images/sub2/big11.png"},
+        {"name":"[일반의약품] 슈퍼라민 콰트로정 4","descript":"마그네슘 3종, 비타민 B군 11종(활성비타민B 6종 포함), 푸르설티아민 등을 함유하여 육체피로, 근육통, 신경통, 구내염 등을 완화하는 고함량 영양제입니다.","image":"./images/sub2/img12.png","pop_img":"./images/sub2/big12.png"},
+        {"name":"[일반의약품] 리버타인 액","descript":"베타인, L-아르기닌 등을 함유하여 간 기능과 관련된 물질의 대사를 돕고 신속하게 흡수되어 간질환의 보조 치료 역할을 하는 마시는 의약품입니다.","image":"./images/sub2/img13.png","pop_img":"./images/sub2/big13.png"},
+        {"name":"[일반의약품] 프로라민 에스정","descript":"비타민 B1, B2, B3, B6, B12를 각각 100mg 고함량으로 꽉 채워 육체피로, 신경통, 구내염 완화 및 아연 보급을 돕는 프리미엄 비타민제입니다.","image":"./images/sub2/img14.png","pop_img":"./images/sub2/big14.png"},
+        {"name":"[일반의약품] 마그라민 트리플액션정","descript":"마그네슘 3종 복합 성분과 고함량 비타민D, 활성 비타민 B1, 천연 토코페롤을 담아 육체피로, 근육경련, 혈액순환을 케어하는 1일 1정 영양제입니다.","image":"./images/sub2/img15.png","pop_img":"./images/sub2/big15.png"}
+      
+    ]
+}
+
+
+
+
+
+
+
+

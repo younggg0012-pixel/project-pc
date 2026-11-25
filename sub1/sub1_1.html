@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>회사소개:기업소개</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+        <script src="https://kit.fontawesome.com/c25e93eca2.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="../css/aos.css">
+        <link rel="stylesheet" href="../css/common.css">
+        <link rel="stylesheet" href="./css/sub1_common.css">
+        <link rel="stylesheet" href="./css/sub1_1.css">
+</head>
+<body>
+    
+    <div id="skipNav">
+        <a href="#content">본문바로가기</a>
+        <a href="#gnb">네비게이션바로가기</a>
+    </div>
+ <div id="wrap">
+    <header id="headerArea">
+          
+        </header>
+
+        <div class="visual">
+            <img src="./images/common/sub_visual.jpg" alt="">
+            <strong>회사소개</strong>
+        </div>
+
+        <div class="sub_nav">
+            <ul>
+                <li><a class="active" href="./sub1_1.html">기업소개</a></li>
+                <li><a href="./sub1_2.html">기업이념&amp;비전</a></li>
+                <li><a href="./sub1_3.html">연혁</a></li>
+                <li><a href="./sub1_4.html">오시는길</a></li>
+            </ul>
+        </div>
+
+        <main id="content">
+            <article>
+
+              <div class="title_area">
+                <div class="line_map">
+                    HOME &gt; 회사소개 &gt; <strong>기업소개</strong>
+                </div>
+                    <h2>기업소개<span>business introduction</span></h2>
+                    <p>1941년부터 사람을 향한 믿음으로 건강한 미래를 만들어가는<span>글로벌 헬스케어 기업</span></p>
+              </div>
+                
+              <div class="content_area">
+                   <ul class="company_area">
+                    <li class="company_text">
+                        <img class="company_img1" data-aos="fade-right" src="./images/sub1/company_1.jpg" alt="">
+                        <dl class="section1" data-aos="fade-left">
+                            <dt>'사람'을 향한 창업이념과 역사성</dt>
+                            <dd>
+                                1941년부터 이어온 의약품의 근본은 사람이라는 <br>굳건한 철학을 바탕으로,
+                                생명을 존중하고 치유해 온 오랜 역사를 <br>고스란히 담아 대한민국을 넘어 세계로 당당하게 뻗어가는<br> 
+                                브랜드의 깊은 신뢰감과 변함없는 가치를 전달합니다.
+                            </dd> 
+                        </dl>
+                    </li>
+                    <li  class="company_text">
+                        <img class="company_img2" data-aos="fade-left" src="./images/sub1/company_2.jpg" alt=""> 
+                        <dl class="section1 section2" data-aos="fade-right">
+                            <dt>토탈 헬스케어 기업으로의 확장성</dt>
+                            <dd>
+                                오랫동안 사랑받아 온 친숙한 국민 건강 브랜드와<br> 
+                                혁신적인 신약 개발 역량을 뛰어넘어, 건강기능식품부터<br>최첨단 의료기기와 삶의 질을 높이는 제품까지 아우르는<br>
+                                글로벌 토탈 헬스케어 그룹으로서의 차별화된 비전과 미래를 제시합니다.
+                            </dd>
+                        </dl>
+                    </li>
+                    <li  class="company_text">
+                        <img class="company_img1" data-aos="fade-right" src="./images/sub1/company_3.jpg" alt=""> 
+                        <dl class="section1" data-aos="fade-left">
+                            <dt>고객과의 동행</dt>
+                            <dd>
+                                차가운 제약 기업의 이미지를 넘어,
+                                고객 곁에서 함께하며 <br>행복을 전하는 국민 건강 연구소가 되겠습니다.
+                                <br>건강한 삶을 향해 나아가는 모든 여정마다 든든한 버팀목이<br> 되어 진정한 삶의 파트너로 기억되겠습니다.
+                            </dd>
+                        </dl>
+                    </li>
+                   </ul>
+                </div>
+            </article>
+        </main>
+
+
+    <footer id="footerArea">
+      
+    </footer>
+ </div>
+
+
+    <script src="../js/jquery-1.12.4.min.js"></script>
+    <script src="../js/jquery-migrate-1.4.1.min.js"></script>
+    <script>
+        $('#headerArea').load('../common/sub_header.html',function(){
+            //function(){} -> main_header.html의 로드가 완료가 되면...
+            $.getScript('../js/fullnav.js'); //스크립트 js파일을 동작시키는 메소드 
+        });
+
+        $('#footerArea').load('../common/sub_footer.html',function(){
+            $.getScript('../js/select.js');
+        });
+    </script>
+    <script src="../js/aos.js"></script>
+    <script>
+        AOS.init({
+        easing: 'ease-in-out-sine'
+        });
+    </script>
+    
+    
+    
+</body>
+</html>

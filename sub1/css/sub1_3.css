@@ -1,0 +1,43 @@
+#content .content_area{padding-top: 100px;}
+#content .year_area{display: flex; width: 1400px; justify-content: center; border: 2px solid #e60122; margin: 0 auto;}
+#content .year_area li{width:12.5%; text-align: center;}
+#content .year_area li a{color: #ccc; font-weight: 600; font-size:1.4rem;padding: 10px 0;  transition: all 0.5s ease-out;}
+
+
+
+/* 상단에 고정 sticky menu */     
+#content .navOn{position: fixed; width: 100%; z-index:100; left:0; top: 0; background: #fff; 
+                           border-bottom: 1px solid #ccc; padding: 5px 0;}
+#content .navOn ul{margin: 0 auto; padding: 0;}
+
+/* 메뉴 활성화  scroll spy */
+#content .navBox ul li a.spy{color: #fff; background: #e60122;}
+
+
+
+#content .history_box{position: relative;}
+#content .history_box::before{content: ''; width: 2px; height: 11750px; display: block; background:#ccc; position: absolute; left:50%; 
+                              top: 0; margin-left: -80px;}
+  
+
+#content section{width: 1550px;position: relative;margin: 200px auto;}
+#content section h3{color: #333; font-size: var(--font-h3-size); margin-left: 800px;}
+#content section ul{margin-left: 800px;}
+#content section ul li span{display: block; color: #666; font-weight: 500; font-size: var(--font-18-size); border-radius: 3px; 
+                            background: #ccc; width: 90px; margin-bottom: -20px; text-align: center;  transition: all .5s;}
+#content section ul li:hover span{background: var(--color-main); color: #fff;}
+#content section ul li{color:#666; font-weight: 500; border: 2px solid #ccc; margin-top: 50px; width: 600px; position: relative; 
+                       border-radius: 10px; padding: 20px; transition: all 0.2s ease-out; }
+#content section ul li:hover{ color: var(--color-main); border: 2px solid var(--color-main); box-shadow: var(--box-shadow1);}
+
+#content .history_box ul li::after{content: ''; display: block;; width: 15px; height: 15px;  position: absolute; top: 30px; left:-113px ;
+                                   border-radius: 50%; background: var(--color-main);}
+
+#content section img{border-radius: 10px; width: 400px; position: absolute; top:120px; left: 120px; box-shadow: var(--box-shadow1); 
+                     filter: brightness(1.2);}
+#content section .img2{margin-top: 750px;}
+#content section .img3{margin-top: 1450px;}
+
+
+
+
